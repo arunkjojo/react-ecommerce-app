@@ -70,4 +70,4 @@ https://www.figma.com/proto/s1UyZeOjkBtxnLspaX5jfA/LIFE-ME?type=design&node-id=1
 
 ## Youtube
 
-https://youtu.be/46WsJ2nwIaw
+[https://youtu.be/46WsJ2nwIaw](https://youtu.be/8AHbj-iTLuA)https://youtu.be/8AHbj-iTLuA
