@@ -19,7 +19,7 @@ const Card = ({ data }) => {
         <div className={style.imageWrapper}>
           <img
             src={data?.image}
-            alt="product img"
+            alt={data?.image}
             className={style.cardImage}
           />
         </div>

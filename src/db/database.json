@@ -55,7 +55,7 @@
             "mrp": "₹5,798",
             "price": "₹3,899",
             "currency": "INR",
-            "image": "../img/products/prd1.png",
+            "image": "https://raw.githubusercontent.com/arunkjojo/react-ecommerce-app/main/src/img/products//prd1.png",
             "category": "Electronics",
             "badge": false,
             "badgeText": ""
