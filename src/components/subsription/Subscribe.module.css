@@ -1,0 +1,61 @@
+.subscription {
+    margin-top: 112px;
+    height: 269px;
+    border-radius: 12px;
+    background: #FFF7EC;
+}
+
+.subscriptionInnerDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 59px 0px 52px 0px;
+}
+
+.heading {
+    width: 357px;
+    color: #100F1A;
+    font-family: Inter;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.paragraph {
+    width: 548px;
+    color: rgba(97, 97, 97, 0.69);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+    padding-top: 12px;
+}
+
+.emailInputDiv {
+    width: 506px;
+    height: 56px;
+
+    border-radius: 12px;
+    border: solid;
+    border-image: linear-gradient(to right, #67C2EE, #F0AEFF);
+    border-image-slice: 1;
+    border-width: 2px;
+}
+
+.emailInput {
+    width: 500px;
+    height: 50px;
+    border-radius: 12px;
+
+    background: #FFF7EC;
+
+    padding: 20px 26px 17px 26px;
+    color: #4E4C56;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}

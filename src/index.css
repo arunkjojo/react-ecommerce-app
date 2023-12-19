@@ -1,0 +1,24 @@
+:root {
+  --body-1-font-family: "OpenSans-Regular", Helvetica;
+  --body-1-font-size: 18px;
+  --body-1-font-style: normal;
+  --body-1-font-weight: 400;
+  --body-1-letter-spacing: 0px;
+  --body-1-line-height: 139.9999976158142%;
+  --button-bold-font-family: "SourceSans Pro-Bold", Helvetica;
+  --button-bold-font-size: 18px;
+  --button-bold-font-style: normal;
+  --button-bold-font-weight: 700;
+  --button-bold-letter-spacing: 0px;
+  --button-bold-line-height: 100%;
+  --button-shadow: 0px 14px 32px 0px rgba(255, 178, 14, 0.29), 0px 5px 8px 0px rgba(222, 151, 0, 0.24);
+  --headline-4-bold-font-family: "SourceSans Pro-Bold", Helvetica;
+  --headline-4-bold-font-size: 43px;
+  --headline-4-bold-font-style: normal;
+  --headline-4-bold-font-weight: 700;
+  --headline-4-bold-letter-spacing: 0px;
+  --headline-4-bold-line-height: 112.00000047683716%;
+  --shadow-2: 0px 27px 82px 0px rgba(124, 124, 124, 0.28), 0px 14px 15px 0px rgba(124, 124, 124, 0.06);
+  --themegray-600: rgba(117, 117, 117, 1);
+  --themewhite: rgba(255, 255, 255, 1);
+}

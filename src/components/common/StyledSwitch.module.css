@@ -1,0 +1,52 @@
+.switchLabel {
+    display: flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+    user-select: none;
+    border-radius: 6px;
+}
+
+.switchLabel input {
+    display: none;
+}
+
+.switchSlider {
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 147.5px;
+    height: 48px;
+    color: #4e4c56;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.switchLabel input:checked+.switchSlider {
+    border-radius: 6px;
+    background: #100f1a;
+    width: 147.5px;
+    height: 48px;
+    color: #fff;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.switchLabel input:checked+.switchSlider:before {
+    transform: translateX(20px);
+}

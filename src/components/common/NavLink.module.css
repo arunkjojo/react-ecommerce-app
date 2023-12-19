@@ -1,0 +1,21 @@
+.groupLink {
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.linkText {
+    color: #100F1A;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    cursor: pointer;
+}
+
+
+.downArrow {
+    height: 20px;
+    width: 20px;
+}

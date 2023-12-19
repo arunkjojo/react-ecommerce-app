@@ -1,0 +1,69 @@
+.ads {
+    padding-top: 66px;
+    padding-bottom: 112px;
+}
+
+.adsInnerDiv {
+    border-radius: 16px;
+    box-shadow: 0px 9px 110px 0px rgba(0, 0, 0, 0.16);
+    display: flex;
+    align-items: flex-start;
+    flex-shrink: 0;
+    overflow: hidden;
+    position: relative;
+}
+
+.content {
+    display: flex;
+    padding: 56px;
+    flex-direction: column;
+    align-items: flex-start;
+    flex: 1 0 0;
+    align-self: stretch;
+}
+
+.heading {
+    color: #23222A;
+
+    font-family: Inter;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 112%;
+}
+
+.headingHighlight {
+    color: #68C2EE;
+    font-family: Inter;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 112%;
+}
+
+.paragraph {
+    color: rgba(97, 97, 97, 0.69);
+
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+    padding: 19px 0px 19px 0px;
+}
+
+.arrowRight {
+    color: #FFF;
+
+    text-align: center;
+    font-family: Font Awesome 5 Free;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 100%;
+}
+
+.image {
+    overflow: hidden;
+    position: relative;
+}

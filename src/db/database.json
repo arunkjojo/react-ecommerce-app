@@ -1,0 +1,146 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "MB Fuel Whey Protein Immunity +2kg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget justo vel quam luctus ullamcorper.",
+            "mrp": "₹5,798",
+            "price": "₹3,899",
+            "currency": "INR",
+            "image": "../img/products/prd1.png",
+            "category": "Electronics",
+            "badge": false,
+            "badgeText": ""
+        },
+        {
+            "id": 2,
+            "name": "MB Fuel Whey Protein Immunity +2kg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget justo vel quam luctus ullamcorper.",
+            "mrp": "₹5,798",
+            "price": "₹3,899",
+            "currency": "INR",
+            "image": "../img/products/prd4.png",
+            "category": "Electronics",
+            "badge": false,
+            "badgeText": ""
+        },
+        {
+            "id": 3,
+            "name": "MB Fuel Whey Protein Immunity +2kg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget justo vel quam luctus ullamcorper.",
+            "mrp": "₹5,798",
+            "price": "₹3,899",
+            "currency": "INR",
+            "image": "../img/products/prd2.png",
+            "category": "Electronics",
+            "badge": false,
+            "badgeText": ""
+        },
+        {
+            "id": 4,
+            "name": "MB Fuel Whey Protein Immunity +2kg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget justo vel quam luctus ullamcorper.",
+            "mrp": "₹5,798",
+            "price": "₹3,899",
+            "currency": "INR",
+            "image": "../img/products/prd3.png",
+            "category": "Electronics",
+            "badge": false,
+            "badgeText": ""
+        },
+        {
+            "id": 5,
+            "name": "MB Fuel Whey Protein Immunity +2kg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget justo vel quam luctus ullamcorper.",
+            "mrp": "₹5,798",
+            "price": "₹3,899",
+            "currency": "INR",
+            "image": "../img/products/prd1.png",
+            "category": "Electronics",
+            "badge": false,
+            "badgeText": ""
+        },
+        {
+            "id": 6,
+            "name": "MB Fuel Whey Protein Immunity +2kg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget justo vel quam luctus ullamcorper.",
+            "mrp": "₹5,798",
+            "price": "₹3,899",
+            "currency": "INR",
+            "image": "../img/products/prd2.png",
+            "category": "Electronics",
+            "badge": false,
+            "badgeText": ""
+        },
+        {
+            "id": 7,
+            "name": "MB Fuel Whey Protein Immunity +2kg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget justo vel quam luctus ullamcorper.",
+            "mrp": "₹5,798",
+            "price": "₹3,899",
+            "currency": "INR",
+            "image": "../img/products/prd3.png",
+            "category": "Electronics",
+            "badge": false,
+            "badgeText": ""
+        },
+        {
+            "id": 8,
+            "name": "MB Fuel Whey Protein Immunity +2kg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget justo vel quam luctus ullamcorper.",
+            "mrp": "₹5,798",
+            "price": "₹3,899",
+            "currency": "INR",
+            "image": "../img/products/prd4.png",
+            "category": "Electronics",
+            "badge": false,
+            "badgeText": ""
+        }
+    ],
+    "newProducts": [
+        {
+            "id": 1,
+            "name": "MB Fuel Whey Protein Immunity +2kg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget justo vel quam luctus ullamcorper.",
+            "mrp": "₹5,798",
+            "price": "₹3,899",
+            "currency": "INR",
+            "image": "/img/products/prd1.png",
+            "badge": true,
+            "badgeText": "10% OFF"
+        },
+        {
+            "id": 2,
+            "name": "MB Fuel Whey Protein Immunity +2kg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget justo vel quam luctus ullamcorper.",
+            "mrp": "₹5,798",
+            "price": "₹3,899",
+            "currency": "INR",
+            "image": "/img/products/prd2.png",
+            "badge": true,
+            "badgeText": "10% OFF"
+        },
+        {
+            "id": 3,
+            "name": "MB Fuel Whey Protein Immunity +2kg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget justo vel quam luctus ullamcorper.",
+            "mrp": "₹5,798",
+            "price": "₹3,899",
+            "currency": "INR",
+            "image": "/img/products/prd3.png",
+            "badge": true,
+            "badgeText": "10% OFF"
+        },
+        {
+            "id": 4,
+            "name": "MB Fuel Whey Protein Immunity +2kg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget justo vel quam luctus ullamcorper.",
+            "mrp": "₹5,798",
+            "price": "₹3,899",
+            "currency": "INR",
+            "image": "/img/products/prd4.png",
+            "badge": true,
+            "badgeText": "10% OFF"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+.brandContainer {
+    height: 674px;
+    background: url("../../img/common/ads_bg.png"), lightgray 0px -565.838px / 100% 270.292% no-repeat;
+}
+
+.brandInnerContainer {
+    display: flex;
+    padding-top: 105px;
+}
+
+.brandText {
+    color: #100F1A;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-top: 20px;
+    margin-bottom: 40px;
+}

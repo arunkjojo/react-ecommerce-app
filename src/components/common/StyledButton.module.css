@@ -1,0 +1,39 @@
+.btn {
+    background: linear-gradient(to right, rgb(101, 194, 237) 0%, rgb(241, 173, 255) 100%);
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.btnDefault {
+    width: 153px;
+    height: 56px;
+}
+
+.btnLarge {
+    width: 320px;
+    height: 62px;
+}
+
+.text {
+    color: #ffffff;
+    font-family: Inter;
+    font-style: normal;
+    letter-spacing: 0;
+    white-space: nowrap;
+    margin-right: 10px;
+}
+
+.textDefault {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.textLarge {
+
+    font-size: 20px;
+    font-weight: 600;
+}

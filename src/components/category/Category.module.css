@@ -1,0 +1,54 @@
+.category {
+    margin-top: 67px;
+    margin-bottom: 112px;
+}
+
+.categoryHeader {
+    display: flex;
+    justify-content: space-between;
+    color: #100F1A;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.label {
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.viewText {
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.categoryCard {
+    border-radius: 9px;
+    width: 275px;
+    height: 156px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+}
+
+.categoryName {
+    color: #393846;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.images {
+    margin: 10px;
+}
+
+.categoryImage {
+    width: 122px;
+    height: 137px;
+}

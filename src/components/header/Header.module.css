@@ -1,0 +1,83 @@
+.header {
+    height: 106px;
+    background: #FFF;
+    box-shadow: 0px 6px 42px 0px rgba(0, 0, 0, 0.12);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.innerHeader {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.logoDiv {
+    flex-grow: 1;
+    /* flex-basis: 1100px; */
+}
+
+.logo {
+    height: 56px;
+    object-fit: cover;
+    width: 45px;
+    cursor: pointer;
+}
+
+.rightDiv {
+    /* flex-grow: 1; */
+    display: flex;
+    align-items: center;
+    gap: 36px;
+    /* justify-content: space-between; */
+}
+
+.inputOuterDiv {
+    background-color: #ffffff;
+    border: 0.4px solid;
+    border-color: #a0a0a0;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    width: 440px;
+    height: 56px;
+    padding: 18px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.textInput {
+    color: #4d4c55;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    width: calc(100%);
+    padding-left: 15px;
+}
+
+.searchIcon {
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+}
+
+.verticalLine {
+    height: 42px;
+    width: 1px;
+}
+
+.icon {
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+}
+
+.arrowRightUp {
+    height: 16px;
+    width: 16px;
+}
