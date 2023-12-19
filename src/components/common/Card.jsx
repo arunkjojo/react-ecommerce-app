@@ -2,7 +2,6 @@ import style from "./Card.module.css";
 import cartIcon from "../../img/icons/cartIcon.svg";
 import favoriteIcon from "../../img/icons/favoriteIcon.svg";
 import shareIcon from "../../img/icons/shareIcon.svg";
-import { prd1 } from "../../img/products/";
 
 const Card = ({ data }) => {
   return (
@@ -19,8 +18,7 @@ const Card = ({ data }) => {
         </div>
         <div className={style.imageWrapper}>
           <img
-            // src={data?.image ? data.image : prd1}
-            src={prd1}
+            src={data?.image}
             alt="product img"
             className={style.cardImage}
           />
