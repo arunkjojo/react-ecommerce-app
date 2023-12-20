@@ -19,19 +19,19 @@ const Product = (props) => {
         <div className={style.switchDiv}>
           <StyledSwitch
             label="Best Sellers"
-            checked={switchValue}
+            checked={!switchValue}
             onChange={handleSwitchChange}
           />
           <StyledSwitch
             label="Category’s"
-            checked={!switchValue}
+            checked={switchValue}
             onChange={handleSwitchChange}
           />
         </div>
         <div className="row mt-1 gx-4 gy-4">
           {props.data &&
             props.data?.map((product, index) => (
-              <div className="col-3">
+              <div key={index} className="col-3">
                 <Card key={index} data={product} />
               </div>
             ))}

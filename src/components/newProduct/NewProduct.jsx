@@ -12,7 +12,7 @@ const NewProduct = (props) => {
         <div className="row mt-1 gx-4 gy-4">
           {props.data &&
             props.data?.map((product, index) => (
-              <div className="col-3">
+              <div key={index} className="col-3">
                 <Card key={index} data={product} />
               </div>
             ))}
